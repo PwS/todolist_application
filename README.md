@@ -70,9 +70,6 @@ dependencies:
   path: any
 ```
 
-## Screenshots
-*(Add screenshots of your app here to showcase the UI and functionality.)*
-
 ## Future Improvements
 - Add task categories.
 - Implement task reminders.
