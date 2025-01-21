@@ -37,7 +37,7 @@ Handles database interactions and business logic. For example:
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todolist_application.git
+   git clone https://github.com/PwS/todolist_application.git
    ```
 
 2. Navigate to the project directory:
