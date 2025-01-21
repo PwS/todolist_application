@@ -70,10 +70,5 @@ dependencies:
   path: any
 ```
 
-## Future Improvements
-- Add task categories.
-- Implement task reminders.
-- Enhance UI with animations.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
